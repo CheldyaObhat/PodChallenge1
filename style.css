@@ -1,0 +1,13 @@
+body {
+
+    min-height: 100vh;
+}
+
+
+.logo-image {
+    width: 140px;
+    height: 46px;
+    border-radius: 10%;
+    overflow: hidden;
+    margin-top: -6px;
+}
